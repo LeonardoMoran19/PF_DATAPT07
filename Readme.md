@@ -245,7 +245,7 @@ Leonardo Morán León
 
 - Rol: Data Scientist
 - Teléfono: +59 39 7869 3382
-- Correo Electrónico: [oel.espol@gmail.com](mailto:oel.espol@gmail.com)
+- Correo Electrónico: [oel.espol@gmail.com](mailto:leomleon19@gmail.com)
 - Github: [github.com/LeonardoMoran19](https://github.com/LeonardoMoran19/)
 - LinkedIn: [linkedin.com/in/leomleon/](https://www.linkedin.com/in/leomleon/)
 
